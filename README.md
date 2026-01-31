@@ -21,40 +21,40 @@ This system helps speech and hearing-impaired individuals communicate easily wit
 ♿ Accessibility focused
 
 🛠️ Tech Stack
-# Languages
+Languages
 
-# Python
+ Python
 
-# Libraries
+ Libraries
 
-# OpenCV
+ OpenCV
 
-# MediaPipe
+ MediaPipe
 
-# NumPy
+ NumPy
 
-# TensorFlow / Scikit-learn
+ TensorFlow / Scikit-learn
 
-# pyttsx3 / gTTS (Text-to-Speech)
+ pyttsx3 / gTTS (Text-to-Speech)
 
-# Tools
+ Tools
 
-# VS Code
+ VS Code
 
-# Webcam
+ Webcam
 
-# Git & GitHub
+ Git & GitHub
 
 ⚙️ How It Works
 
-# Webcam captures hand gesture
+ Webcam captures hand gesture
 
-# Hand landmarks detected using MediaPipe
+ Hand landmarks detected using MediaPipe
 
-# ML model predicts the sign
+ ML model predicts the sign
 
-# Sign converted to text
+ Sign converted to text
 
-# Text converted to speech
+ Text converted to speech
 
-# Audio played through speakers
+ Audio played through speakers
